@@ -9,3 +9,4 @@
 - [오라클의 SQL문 분류](./day2/day2.md)
 - [select 문](./day2/select.md)
 - [데이터 가공 : 산술 및 연결 연산자](./day2/operator.md)
+- [데이터 정렬 : ORDER BY 절](./day2/orderby.md)
