@@ -51,8 +51,23 @@
 
 ---
 
+
 ##### Datetime Data Types
 <img width="623" alt="image" src="https://github.com/user-attachments/assets/92143306-df21-43cc-8ad9-e7003a1f488b" />
 
+---
+#### 데이터 타입 변환
+##### 변환 함수 사용 여부에 따라
+- 암시적 변환
+   - 자동 변환
+   - 암시적 변환이 수행되는 조건
+      - Assignment
+      - Expression Evaluation
+         - 숫자, 날짜 > 문자
+   - 자동은 편하지만 우리의 의견이 반영안될 수가 있다.
+- 명시적 변환
+   - 수동 변환
+   - 변환 함수 사용
+ 
 
 
