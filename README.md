@@ -15,3 +15,4 @@
 - [문자 함수와 숫자 함수](./day3/function.md)
 - [날짜 연산과 날짜 함수](./day3/date.md)
 - [데이터 타입 및 변환함수](./day3/datetype.md)
+- [조인 개념 및 크로스 조인](./day3/join.md)
